@@ -16,7 +16,7 @@ The Theatre Management System helps reduce manual work, improves booking accurac
 9.Select Show Seats at any time to check seat availability.
 10.Select Exit to close the application.
 
-#Technologies Used
+# Technologies Used
 1.Python 3
 2.Functions
 3.Lists
